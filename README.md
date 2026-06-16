@@ -1,9 +1,9 @@
-## Building Your First Accessible Gutenberg Block
+# Building Your First Accessible Gutenberg Block
 by Emilio Dominguez
 
 WordPress Accessibility Meetup offered by Equalize Digital, developer of the Equalize Digital Accessibility Checker plugin for Wordpress offering WCAG, ADA, EAA and Section 508 compliance.
 
-# Description of the Webinar
+## Description of the Webinar
 
 In this presentation, Emilio will take the mystery out of the WordPress Block Editor. We will move away from old-school shortcodes and learn how to create a custom "Notice" or "Call to Action" block from scratch.
 
